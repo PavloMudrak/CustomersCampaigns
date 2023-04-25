@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pX/iwZwhECoJanUHeU3jjUF/eyEe94uCjxa4SknOR2YyVh/zGZK0Z7yezs+5TIHdtioXKZ2S86x1gtPHBuwnNg==",
+  "success": true,
+  "projectFilePath": "C:\\PAVLO\\Projects\\VisualStudio\\Tests\\CampaignsCustomers\\CampaignsCustomers\\CampaignsCustomers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavlo\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
